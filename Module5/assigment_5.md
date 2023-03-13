@@ -1,2 +1,2 @@
-**Module 6: Deep Learning and Computer Vision (30 hours)** 
+**Module 5: Deep Learning and Computer Vision (30 hours)** 
 *Brief description:* The necessary concepts to understand Deep Learning will be provided, including the different types of use cases that can be used. Fine tuning mechanism will be used to leverage already trained learning and knowledge transfer will be carried out. Key computer vision concepts and technologies used will be addressed. During the lab, an object/person classification project in images will be developed. Use case: Object Classification through Deep Learning.
